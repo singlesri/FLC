@@ -1,0 +1,17 @@
+# Ignore raw wget downloads (root level only)
+/arcarch.webflow.io/
+/cdn.prod.website-files.com/
+/d3e54v103j8qbb.cloudfront.net/
+/webflow.com/
+/ajax.googleapis.com/
+/fonts.googleapis.com/
+/deveb.co/
+/facebook.com/
+/instagram.com/
+/linkedin.com/
+/twitter.com/
+
+# Ignore wget binary and serve config
+wget.exe
+serve.json
+node_modules/
